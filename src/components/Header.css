@@ -1,0 +1,12 @@
+.brandName{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    
+}
+.brandName .logo{
+    width: 55px;
+    margin-bottom: 1px;
+    margin-right: 15px;
+}
